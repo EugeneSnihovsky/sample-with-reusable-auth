@@ -6,7 +6,7 @@
 /out-tsc
 
 # dependencies
-/node_modules
+/node_modules/*
 !/node_modules/_ng-reusable-auth
 
 # IDEs and editors
